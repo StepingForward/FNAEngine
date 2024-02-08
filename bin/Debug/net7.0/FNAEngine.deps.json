@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "FNAEngine/1.0.0": {
+        "dependencies": {
+          "FNA": "1.0.0",
+          "FNA.Reference": "23.12.7.0"
+        },
+        "runtime": {
+          "FNAEngine.dll": {}
+        }
+      },
+      "FNA/1.0.0": {
+        "runtime": {
+          "FNA.dll": {}
+        }
+      },
+      "FNA.Reference/23.12.7.0": {
+        "runtime": {
+          "FNA.dll": {
+            "assemblyVersion": "23.12.7.0",
+            "fileVersion": "23.12.7.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FNAEngine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FNA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FNA.Reference/23.12.7.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
