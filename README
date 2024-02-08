@@ -1,5 +1,5 @@
 This is a REALLY small 2d framework made in C# with FNA, i was just tring out FNA, and ended u pliking it a lot.
-What it has:
+<h1>What it has:</h1>
   --loading all game content
   --animations
   --sprite atlases
