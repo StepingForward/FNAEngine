@@ -1,7 +1,7 @@
 This is a REALLY small 2d framework made in C# with FNA, i was just tring out FNA, and ended u pliking it a lot.
 ## What it has:
   --loading all game content
-  --animations
+  --animations [pip](https://pip.pypa.io/en/stable/)
   --sprite atlases
   --entities
   --tilemap(support for Ogmo Tilemap editor)
