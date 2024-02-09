@@ -2,11 +2,16 @@
 This is a REALLY small 2d framework made in C# with FNA, i was just tring out FNA, and ended u pliking it a lot.
 
 ## WHAT IT HAS:
-  --loading all game content
-  --animations
-  --sprite atlases
-  --entities
-  --tilemap(support for Ogmo Tilemap editor)
+  ### loading all game content
+  
+  ### animations
+  
+  ### sprite atlases
+  
+  ### entities
+  
+  ### tilemap(support for Ogmo Tilemap editor)
+  
 You may see collisions in Entity.cs but they don't work, don't even look at them.
 There is no reason for you to use this, but if you want to use my code, you can FREELY.
 
