@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FNAEngine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b12502005864578077e64e81a73caf9c809d7c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("FNAEngine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FNAEngine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
