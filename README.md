@@ -2,7 +2,7 @@
 This is a REALLY small 2d framework made in C# with FNA, i was just tring out FNA, and ended u pliking it a lot.
 
 ## WHAT IT HAS:
-  --loading all game content
+  --loading all game content\n
   --animations
   --sprite atlases
   --entities
